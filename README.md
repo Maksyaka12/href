@@ -1,2 +1,2 @@
-# aleo-game tic-tacoe
+# ALEO-game tic-tacoe
 // гра для Aleo
