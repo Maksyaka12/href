@@ -1,2 +1,3 @@
-# ALEO-game tic-tacoe
-// гра для Aleo
+# ALEO-game
+Tic-Tacoe by Maksyaka12
+
