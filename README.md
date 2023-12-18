@@ -5,4 +5,4 @@ Tic-Tacoe by Maksyaka12
 #Author`s name: Maksym
 #Project: Tic-Tacoe
 #Type: Game
-#Deadline: 2 months
+#Deadline: 3m
