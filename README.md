@@ -1,4 +1,4 @@
-# ALEO-game
+# ALEO Game
 
 # This game for Aleo
 # Author`s name: Maksym
