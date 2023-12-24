@@ -4,3 +4,4 @@
 # Author`s name: Maksym
 #Project: Tic-Tacoe
 #Type: Game
+game
