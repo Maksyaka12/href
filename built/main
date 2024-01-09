@@ -5,4 +5,3 @@ function new:
     cast r0 r1 r2 into r3 as Board;
     output r3 as Board.private;
 
-function
