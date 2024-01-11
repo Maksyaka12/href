@@ -1,2 +1,2 @@
-programm.jso
+programm.json
 
