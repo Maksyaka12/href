@@ -4,4 +4,4 @@
 # Author`s name: Maksym
 #Project: Tic-Tacoe
 #Type: Game
-for Aleo
+for AleoGG
