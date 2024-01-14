@@ -1,2 +1,2 @@
 programm.json
-current
+current.c
