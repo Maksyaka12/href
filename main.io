@@ -1,3 +1,3 @@
 programm.json
 current.cio
-aleo dvizh korzk
+aleo dvizh korzka
